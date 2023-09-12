@@ -29,7 +29,15 @@
   width: 1.5rem;
   height: 1.5rem;
 }
+.left-arrow:hover {
+  width: 3.5rem;
+  height: 3.5rem;
+}
 
+.right-arrow:hover {
+  width: 3.5rem;
+  height: 3.5rem;
+}
 .arrows {
   display: flex;
   align-items: center;
@@ -103,6 +111,16 @@
   .arrows img {
     width: 2.5rem;
     height: 2.5rem;
+  }
+
+  .left-arrow:hover {
+    width: 4.5rem;
+    height: 4.5rem;
+  }
+
+  .right-arrow:hover {
+    width: 4.5rem;
+    height: 4.5rem;
   }
 
   .arrows {

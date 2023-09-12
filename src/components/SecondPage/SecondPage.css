@@ -30,6 +30,16 @@
   height: 1.5rem;
 }
 
+.left-arrow-second:hover {
+  width: 3.5rem;
+  height: 3.5rem;
+}
+
+.right-arrow-second:hover {
+  width: 3.5rem;
+  height: 3.5rem;
+}
+
 .arrows-second {
   display: flex;
   align-items: center;
@@ -103,6 +113,16 @@
   .arrows-second img {
     width: 2.5rem;
     height: 2.5rem;
+  }
+
+  .left-arrow-second:hover {
+    width: 4.5rem;
+    height: 4.5rem;
+  }
+
+  .right-arrow-second:hover {
+    width: 4.5rem;
+    height: 4.5rem;
   }
 
   .arrows-second {
